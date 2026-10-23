@@ -1,14 +1,5 @@
-# Recursos informáticos-OLR
 
-## Objetivo
-Página web con enlaces a recursos informáticos.
-
-## Recursos
-- Google
-- GitHub
-- YouTube
-
-## Archivos
-- index.html: contiene la página web.
-- style.css: contiene los estilos.
-- README.md: describe el proyecto.
+## Recursos recomendados
+- [MDN Web Docs](https://developer.mozilla.org/es/)
+- [W3Schools](https://www.w3schools.com/)
+- [GitHub Skills](https://skills.github.com/)
